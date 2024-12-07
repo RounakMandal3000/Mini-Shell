@@ -28,3 +28,7 @@ Mini Shell is a basic command-line shell implemented in C. It supports the execu
    Use make to compile the project:
    ```bash
    make -f make_shell.mak
+3. **Run the Shell**:
+   After building the project, run the Mini Shell:
+   ```bash
+   ./myshell
